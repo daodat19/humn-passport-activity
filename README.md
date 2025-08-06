@@ -3,3 +3,4 @@ Day 2 - Combine with github !# humn-pasport-activity
 Day 3 - Welcome Github
 Day 4 - github hunman
 Day 5 - human verify
+Day 6 - human passport 
